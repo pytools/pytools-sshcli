@@ -14,7 +14,7 @@ setup(
 
     version='0.1.0',
 
-    description='A helper module wrapped around common CLI commands.',
+    description='A helper module wrapped around common CLI commands through SSH',
     long_description=long_description,
 
     url='https://github.com/pytools/pytools-sshcli',
