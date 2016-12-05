@@ -1,0 +1,14 @@
+# General .gitattributes v1.0.0
+
+# Auto detect text files and perform LF normalization
+* text=auto
+* eol=lf
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.css text
+*.sass text
+*.htm text
+*.html text
+*.xml text
+*.txt text
+*.ini text
