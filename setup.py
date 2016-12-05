@@ -12,7 +12,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
     name='pytools-sshcli',
 
-    version='0.0.0',
+    version='0.1.0',
 
     description='A helper module wrapped around common CLI commands.',
     long_description=long_description,
