@@ -2,7 +2,7 @@ args==0.1.0
 bumpversion==0.5.3
 cffi==1.9.1
 clint==0.5.1
-cryptography==1.6
+cryptography==3.2
 idna==2.1
 paramiko==2.0.2
 pkginfo==1.4.1
